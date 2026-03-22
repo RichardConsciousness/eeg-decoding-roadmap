@@ -11,5 +11,8 @@ data/
 *.fif
 *.set
 
+# Jetbrain
+.idea/
+
 # OS
 .DS_Store
