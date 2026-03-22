@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+.ipynb_checkpoints/
+
+# Data
+data/
+*.edf
+*.fif
+*.set
+
+# OS
+.DS_Store
